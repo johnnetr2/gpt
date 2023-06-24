@@ -1,0 +1,24 @@
+{
+  "007e90dd790052e37020": {
+    "Year": "2017-HT-KVA5",
+    "Quest. Number": 24,
+    "Question": "Adam, Erik och Hans plockade hallon i en gemensam hink för att baka en paj. **Hur många gram hallon användes till pajen?**",
+    "Information (1)": "Adam plockade 1/3 av hallonen i hinken och Hans plockade 3/7 av hallonen i hinken.",
+    "Information (2)": "Då pajen var klar fanns det 850 gram hallon över i hinken.",
+    "Correct Answer": "E",
+    "Type": "Algebra",
+    "Solution": "",
+    "Solution Method": null
+  },
+  "00741d46b400fec71e3a": {
+    "Year": "2017-HT-KVA5",
+    "Quest. Number": 25,
+    "Question": "I ett kontorsförråd finns det en vit och en grå kartong med 800 respektive 1200 gem. Gemen finns i två olika storlekar. **Hur många små gem finns det i den vita kartongen?**",
+    "Information (1)": "Andelen stora gem i vardera kartongen är 43 procent.",
+    "Information (2)": "I de två kartongerna finns det totalt 1140 små gem.",
+    "Correct Answer": "A",
+    "Type": "Algebra",
+    "Solution": "",
+    "Solution Method": null
+  }
+}
