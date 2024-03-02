@@ -1,3 +1,3 @@
-import demo from "./app/demo.js";
+import generateSolutions from "./app//generateSolutions.js";
 
-demo();
+generateSolutions();
